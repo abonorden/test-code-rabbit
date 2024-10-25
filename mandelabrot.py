@@ -21,4 +21,4 @@ mandelbrot_array = mandelabrot_set(800, 600, -2, 1, -1, 1, 100)
 
 plt.imshow(mandelbrot_array, extent=(xmin, xmax, ymin, ymax), cmap='hot')
 plt.colorbar()
-plt.show()
+plt.show() 
