@@ -89,4 +89,4 @@ print("Differentiation result:", calc.differentiate("2x^3 + 4x^2 + 5x", "x"))
 print("Integration result:", calc.integrate("2x^3 + 4x^2 + 5x", "x"))
 
 # Calculating Euler's number with poor precision and efficiency
-print("Euler's number (precision=10):", calc.calculate_euler_number(10))
+print("Euler's number (precision=10):", calc.calculate_euler_number(10)) 
